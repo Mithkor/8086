@@ -1,1 +1,1 @@
-# 8086
+This assembly code will convert string into uppercase characters. 
